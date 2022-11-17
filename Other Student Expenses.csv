@@ -1,0 +1,145 @@
+ID Year,Year,ID University,University,Books And Supplies,Slug University,Median Room And Board,Median Other Student Expenses,title,value
+2020,"2020","122755","San Jose State University",2058,"san-jose-state-university",16567.5,3283,"Books And Supplies",2058
+2020,"2020","122755","San Jose State University",2058,"san-jose-state-university",16567.5,3283,"Room And Board",16567.5
+2020,"2020","122755","San Jose State University",2058,"san-jose-state-university",16567.5,3283,"Other Expenses",3283
+2020,"2020","129941","University of New Haven",1000,"university-of-new-haven",15117,2580,"Books And Supplies",1000
+2020,"2020","129941","University of New Haven",1000,"university-of-new-haven",15117,2580,"Room And Board",15117
+2020,"2020","129941","University of New Haven",1000,"university-of-new-haven",15117,2580,"Other Expenses",2580
+2020,"2020","144962","Elmhurst College",1200,"elmhurst-college",8005,4145,"Books And Supplies",1200
+2020,"2020","144962","Elmhurst College",1200,"elmhurst-college",8005,4145,"Room And Board",8005
+2020,"2020","144962","Elmhurst College",1200,"elmhurst-college",8005,4145,"Other Expenses",4145
+2020,"2020","188641","Alfred University",1300,"alfred-university",12718,2100,"Books And Supplies",1300
+2020,"2020","188641","Alfred University",1300,"alfred-university",12718,2100,"Room And Board",12718
+2020,"2020","188641","Alfred University",1300,"alfred-university",12718,2100,"Other Expenses",2100
+2020,"2020","190549","CUNY Brooklyn College",1364,"cuny-brooklyn-college",15577,4805.5,"Books And Supplies",1364
+2020,"2020","190549","CUNY Brooklyn College",1364,"cuny-brooklyn-college",15577,4805.5,"Room And Board",15577
+2020,"2020","190549","CUNY Brooklyn College",1364,"cuny-brooklyn-college",15577,4805.5,"Other Expenses",4805.5
+2020,"2020","216764","West Chester University of Pennsylvania",1200,"west-chester-university-of-pennsylvania",13174,2520,"Books And Supplies",1200
+2020,"2020","216764","West Chester University of Pennsylvania",1200,"west-chester-university-of-pennsylvania",13174,2520,"Room And Board",13174
+2020,"2020","216764","West Chester University of Pennsylvania",1200,"west-chester-university-of-pennsylvania",13174,2520,"Other Expenses",2520
+2019,"2019","122755","San Jose State University",2002,"san-jose-state-university",15796.5,3025,"Books And Supplies",2002
+2019,"2019","122755","San Jose State University",2002,"san-jose-state-university",15796.5,3025,"Room And Board",15796.5
+2019,"2019","122755","San Jose State University",2002,"san-jose-state-university",15796.5,3025,"Other Expenses",3025
+2019,"2019","129941","University of New Haven",1000,"university-of-new-haven",13935,2496,"Books And Supplies",1000
+2019,"2019","129941","University of New Haven",1000,"university-of-new-haven",13935,2496,"Room And Board",13935
+2019,"2019","129941","University of New Haven",1000,"university-of-new-haven",13935,2496,"Other Expenses",2496
+2019,"2019","144962","Elmhurst College",1200,"elmhurst-college",7933,3645,"Books And Supplies",1200
+2019,"2019","144962","Elmhurst College",1200,"elmhurst-college",7933,3645,"Room And Board",7933
+2019,"2019","144962","Elmhurst College",1200,"elmhurst-college",7933,3645,"Other Expenses",3645
+2019,"2019","188641","Alfred University",1300,"alfred-university",12516,2100,"Books And Supplies",1300
+2019,"2019","188641","Alfred University",1300,"alfred-university",12516,2100,"Room And Board",12516
+2019,"2019","188641","Alfred University",1300,"alfred-university",12516,2100,"Other Expenses",2100
+2019,"2019","190549","CUNY Brooklyn College",1364,"cuny-brooklyn-college",14824,4795.5,"Books And Supplies",1364
+2019,"2019","190549","CUNY Brooklyn College",1364,"cuny-brooklyn-college",14824,4795.5,"Room And Board",14824
+2019,"2019","190549","CUNY Brooklyn College",1364,"cuny-brooklyn-college",14824,4795.5,"Other Expenses",4795.5
+2019,"2019","216764","West Chester University of Pennsylvania",1200,"west-chester-university-of-pennsylvania",12942,2520,"Books And Supplies",1200
+2019,"2019","216764","West Chester University of Pennsylvania",1200,"west-chester-university-of-pennsylvania",12942,2520,"Room And Board",12942
+2019,"2019","216764","West Chester University of Pennsylvania",1200,"west-chester-university-of-pennsylvania",12942,2520,"Other Expenses",2520
+2018,"2018","122755","San Jose State University",1948,"san-jose-state-university",15048,2974,"Books And Supplies",1948
+2018,"2018","122755","San Jose State University",1948,"san-jose-state-university",15048,2974,"Room And Board",15048
+2018,"2018","122755","San Jose State University",1948,"san-jose-state-university",15048,2974,"Other Expenses",2974
+2018,"2018","129941","University of New Haven",1000,"university-of-new-haven",13539,2766,"Books And Supplies",1000
+2018,"2018","129941","University of New Haven",1000,"university-of-new-haven",13539,2766,"Room And Board",13539
+2018,"2018","129941","University of New Haven",1000,"university-of-new-haven",13539,2766,"Other Expenses",2766
+2018,"2018","144962","Elmhurst College",1000,"elmhurst-college",7922,3630,"Books And Supplies",1000
+2018,"2018","144962","Elmhurst College",1000,"elmhurst-college",7922,3630,"Room And Board",7922
+2018,"2018","144962","Elmhurst College",1000,"elmhurst-college",7922,3630,"Other Expenses",3630
+2018,"2018","188641","Alfred University",1300,"alfred-university",12272,2000,"Books And Supplies",1300
+2018,"2018","188641","Alfred University",1300,"alfred-university",12272,2000,"Room And Board",12272
+2018,"2018","188641","Alfred University",1300,"alfred-university",12272,2000,"Other Expenses",2000
+2018,"2018","190549","CUNY Brooklyn College",1364,"cuny-brooklyn-college",13718,4769,"Books And Supplies",1364
+2018,"2018","190549","CUNY Brooklyn College",1364,"cuny-brooklyn-college",13718,4769,"Room And Board",13718
+2018,"2018","190549","CUNY Brooklyn College",1364,"cuny-brooklyn-college",13718,4769,"Other Expenses",4769
+2018,"2018","216764","West Chester University of Pennsylvania",1200,"west-chester-university-of-pennsylvania",12942,2520,"Books And Supplies",1200
+2018,"2018","216764","West Chester University of Pennsylvania",1200,"west-chester-university-of-pennsylvania",12942,2520,"Room And Board",12942
+2018,"2018","216764","West Chester University of Pennsylvania",1200,"west-chester-university-of-pennsylvania",12942,2520,"Other Expenses",2520
+2017,"2017","122755","San Jose State University",1899,"san-jose-state-university",14374.5,2925,"Books And Supplies",1899
+2017,"2017","122755","San Jose State University",1899,"san-jose-state-university",14374.5,2925,"Room And Board",14374.5
+2017,"2017","122755","San Jose State University",1899,"san-jose-state-university",14374.5,2925,"Other Expenses",2925
+2017,"2017","129941","University of New Haven",1000,"university-of-new-haven",13299,2760,"Books And Supplies",1000
+2017,"2017","129941","University of New Haven",1000,"university-of-new-haven",13299,2760,"Room And Board",13299
+2017,"2017","129941","University of New Haven",1000,"university-of-new-haven",13299,2760,"Other Expenses",2760
+2017,"2017","144962","Elmhurst College",1000,"elmhurst-college",7539,3500,"Books And Supplies",1000
+2017,"2017","144962","Elmhurst College",1000,"elmhurst-college",7539,3500,"Room And Board",7539
+2017,"2017","144962","Elmhurst College",1000,"elmhurst-college",7539,3500,"Other Expenses",3500
+2017,"2017","188641","Alfred University",1300,"alfred-university",12196,1950,"Books And Supplies",1300
+2017,"2017","188641","Alfred University",1300,"alfred-university",12196,1950,"Room And Board",12196
+2017,"2017","188641","Alfred University",1300,"alfred-university",12196,1950,"Other Expenses",1950
+2017,"2017","190549","CUNY Brooklyn College",1364,"cuny-brooklyn-college",13713,4652,"Books And Supplies",1364
+2017,"2017","190549","CUNY Brooklyn College",1364,"cuny-brooklyn-college",13713,4652,"Room And Board",13713
+2017,"2017","190549","CUNY Brooklyn College",1364,"cuny-brooklyn-college",13713,4652,"Other Expenses",4652
+2017,"2017","216764","West Chester University of Pennsylvania",1200,"west-chester-university-of-pennsylvania",12860,2520,"Books And Supplies",1200
+2017,"2017","216764","West Chester University of Pennsylvania",1200,"west-chester-university-of-pennsylvania",12860,2520,"Room And Board",12860
+2017,"2017","216764","West Chester University of Pennsylvania",1200,"west-chester-university-of-pennsylvania",12860,2520,"Other Expenses",2520
+2016,"2016","122755","San Jose State University",1860,"san-jose-state-university",13825.5,2839,"Books And Supplies",1860
+2016,"2016","122755","San Jose State University",1860,"san-jose-state-university",13825.5,2839,"Room And Board",13825.5
+2016,"2016","122755","San Jose State University",1860,"san-jose-state-university",13825.5,2839,"Other Expenses",2839
+2016,"2016","129941","University of New Haven",1000,"university-of-new-haven",13094,2860,"Books And Supplies",1000
+2016,"2016","129941","University of New Haven",1000,"university-of-new-haven",13094,2860,"Room And Board",13094
+2016,"2016","129941","University of New Haven",1000,"university-of-new-haven",13094,2860,"Other Expenses",2860
+2016,"2016","144962","Elmhurst College",1000,"elmhurst-college",7408,3550,"Books And Supplies",1000
+2016,"2016","144962","Elmhurst College",1000,"elmhurst-college",7408,3550,"Room And Board",7408
+2016,"2016","144962","Elmhurst College",1000,"elmhurst-college",7408,3550,"Other Expenses",3550
+2016,"2016","188641","Alfred University",1250,"alfred-university",11960,1950,"Books And Supplies",1250
+2016,"2016","188641","Alfred University",1250,"alfred-university",11960,1950,"Room And Board",11960
+2016,"2016","188641","Alfred University",1250,"alfred-university",11960,1950,"Other Expenses",1950
+2016,"2016","190549","CUNY Brooklyn College",1364,"cuny-brooklyn-college",13669,4640,"Books And Supplies",1364
+2016,"2016","190549","CUNY Brooklyn College",1364,"cuny-brooklyn-college",13669,4640,"Room And Board",13669
+2016,"2016","190549","CUNY Brooklyn College",1364,"cuny-brooklyn-college",13669,4640,"Other Expenses",4640
+2016,"2016","216764","West Chester University of Pennsylvania",1200,"west-chester-university-of-pennsylvania",12780,2520,"Books And Supplies",1200
+2016,"2016","216764","West Chester University of Pennsylvania",1200,"west-chester-university-of-pennsylvania",12780,2520,"Room And Board",12780
+2016,"2016","216764","West Chester University of Pennsylvania",1200,"west-chester-university-of-pennsylvania",12780,2520,"Other Expenses",2520
+2015,"2015","122755","San Jose State University",1826,"san-jose-state-university",13200,2820,"Books And Supplies",1826
+2015,"2015","122755","San Jose State University",1826,"san-jose-state-university",13200,2820,"Room And Board",13200
+2015,"2015","122755","San Jose State University",1826,"san-jose-state-university",13200,2820,"Other Expenses",2820
+2015,"2015","129941","University of New Haven",1000,"university-of-new-haven",12705,3426,"Books And Supplies",1000
+2015,"2015","129941","University of New Haven",1000,"university-of-new-haven",12705,3426,"Room And Board",12705
+2015,"2015","129941","University of New Haven",1000,"university-of-new-haven",12705,3426,"Other Expenses",3426
+2015,"2015","144962","Elmhurst College",1500,"elmhurst-college",7768,4550,"Books And Supplies",1500
+2015,"2015","144962","Elmhurst College",1500,"elmhurst-college",7768,4550,"Room And Board",7768
+2015,"2015","144962","Elmhurst College",1500,"elmhurst-college",7768,4550,"Other Expenses",4550
+2015,"2015","188641","Alfred University",1200,"alfred-university",11790,1850,"Books And Supplies",1200
+2015,"2015","188641","Alfred University",1200,"alfred-university",11790,1850,"Room And Board",11790
+2015,"2015","188641","Alfred University",1200,"alfred-university",11790,1850,"Other Expenses",1850
+2015,"2015","190549","CUNY Brooklyn College",1304,"cuny-brooklyn-college",12856,5126,"Books And Supplies",1304
+2015,"2015","190549","CUNY Brooklyn College",1304,"cuny-brooklyn-college",12856,5126,"Room And Board",12856
+2015,"2015","190549","CUNY Brooklyn College",1304,"cuny-brooklyn-college",12856,5126,"Other Expenses",5126
+2015,"2015","216764","West Chester University of Pennsylvania",1200,"west-chester-university-of-pennsylvania",12694,2958,"Books And Supplies",1200
+2015,"2015","216764","West Chester University of Pennsylvania",1200,"west-chester-university-of-pennsylvania",12694,2958,"Room And Board",12694
+2015,"2015","216764","West Chester University of Pennsylvania",1200,"west-chester-university-of-pennsylvania",12694,2958,"Other Expenses",2958
+2014,"2014","122755","San Jose State University",1789,"san-jose-state-university",12263,2794,"Books And Supplies",1789
+2014,"2014","122755","San Jose State University",1789,"san-jose-state-university",12263,2794,"Room And Board",12263
+2014,"2014","122755","San Jose State University",1789,"san-jose-state-university",12263,2794,"Other Expenses",2794
+2014,"2014","129941","University of New Haven",1000,"university-of-new-haven",12500,3460,"Books And Supplies",1000
+2014,"2014","129941","University of New Haven",1000,"university-of-new-haven",12500,3460,"Room And Board",12500
+2014,"2014","129941","University of New Haven",1000,"university-of-new-haven",12500,3460,"Other Expenses",3460
+2014,"2014","144962","Elmhurst College",1500,"elmhurst-college",7631,4580,"Books And Supplies",1500
+2014,"2014","144962","Elmhurst College",1500,"elmhurst-college",7631,4580,"Room And Board",7631
+2014,"2014","144962","Elmhurst College",1500,"elmhurst-college",7631,4580,"Other Expenses",4580
+2014,"2014","188641","Alfred University",1150,"alfred-university",11618,1750,"Books And Supplies",1150
+2014,"2014","188641","Alfred University",1150,"alfred-university",11618,1750,"Room And Board",11618
+2014,"2014","188641","Alfred University",1150,"alfred-university",11618,1750,"Other Expenses",1750
+2014,"2014","190549","CUNY Brooklyn College",1248,"cuny-brooklyn-college",12986,5056,"Books And Supplies",1248
+2014,"2014","190549","CUNY Brooklyn College",1248,"cuny-brooklyn-college",12986,5056,"Room And Board",12986
+2014,"2014","190549","CUNY Brooklyn College",1248,"cuny-brooklyn-college",12986,5056,"Other Expenses",5056
+2014,"2014","216764","West Chester University of Pennsylvania",1200,"west-chester-university-of-pennsylvania",12140,3500,"Books And Supplies",1200
+2014,"2014","216764","West Chester University of Pennsylvania",1200,"west-chester-university-of-pennsylvania",12140,3500,"Room And Board",12140
+2014,"2014","216764","West Chester University of Pennsylvania",1200,"west-chester-university-of-pennsylvania",12140,3500,"Other Expenses",3500
+2013,"2013","122755","San Jose State University",1754,"san-jose-state-university",11700.5,4499,"Books And Supplies",1754
+2013,"2013","122755","San Jose State University",1754,"san-jose-state-university",11700.5,4499,"Room And Board",11700.5
+2013,"2013","122755","San Jose State University",1754,"san-jose-state-university",11700.5,4499,"Other Expenses",4499
+2013,"2013","129941","University of New Haven",1000,"university-of-new-haven",12350,3060,"Books And Supplies",1000
+2013,"2013","129941","University of New Haven",1000,"university-of-new-haven",12350,3060,"Room And Board",12350
+2013,"2013","129941","University of New Haven",1000,"university-of-new-haven",12350,3060,"Other Expenses",3060
+2013,"2013","144962","Elmhurst College",1500,"elmhurst-college",7169,4350,"Books And Supplies",1500
+2013,"2013","144962","Elmhurst College",1500,"elmhurst-college",7169,4350,"Room And Board",7169
+2013,"2013","144962","Elmhurst College",1500,"elmhurst-college",7169,4350,"Other Expenses",4350
+2013,"2013","188641","Alfred University",1100,"alfred-university",11498,1700,"Books And Supplies",1100
+2013,"2013","188641","Alfred University",1100,"alfred-university",11498,1700,"Room And Board",11498
+2013,"2013","188641","Alfred University",1100,"alfred-university",11498,1700,"Other Expenses",1700
+2013,"2013","190549","CUNY Brooklyn College",1248,"cuny-brooklyn-college",12160,4940,"Books And Supplies",1248
+2013,"2013","190549","CUNY Brooklyn College",1248,"cuny-brooklyn-college",12160,4940,"Room And Board",12160
+2013,"2013","190549","CUNY Brooklyn College",1248,"cuny-brooklyn-college",12160,4940,"Other Expenses",4940
+2013,"2013","216764","West Chester University of Pennsylvania",1500,"west-chester-university-of-pennsylvania",12074,3640,"Books And Supplies",1500
+2013,"2013","216764","West Chester University of Pennsylvania",1500,"west-chester-university-of-pennsylvania",12074,3640,"Room And Board",12074
+2013,"2013","216764","West Chester University of Pennsylvania",1500,"west-chester-university-of-pennsylvania",12074,3640,"Other Expenses",3640
